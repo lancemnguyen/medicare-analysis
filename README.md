@@ -16,7 +16,7 @@ Healthcare spending in the U.S. continues to rise, and understanding how Medicar
 - **Key Fields:** Provider demographics (NPI, name, location, type), HCPCS codes, number of beneficiaries and services, submitted charges, Medicare allowed amounts, and actual payments.
 - **Format:** CSV file (~3 GB, ~9.6M rows).
 
-### Dataset Overview (Aggregate Metrics)
+### Dataset Overview (Key Metrics)
 
 | Metric | Value |
 |--------|-------|
